@@ -18,7 +18,7 @@ Extract tasks and action items from any text using OpenAI.
 
 ## Buy Premium Version
 
-https://payhip.com/TSAutomation
+https://payhip.com/b/rLaHw
 
 ---
 Created by TS Automation

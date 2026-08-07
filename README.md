@@ -1,6 +1,6 @@
-# AI Task Extractor for n8n
+# AI Task Extractor
 
-Extract tasks and action items from any text using OpenAI.
+AI-powered n8n workflow that extracts tasks and action items from text automatically.
 
 ## Features
 
